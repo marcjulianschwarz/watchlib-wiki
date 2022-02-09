@@ -1,5 +1,3 @@
-
-# DataLoader
 > class watchlib.data_handler.DataLoader(path)
 
 The easiest way to load Apple Watch data into a usable format in watchlib is to use the `DataLoader`.

@@ -1,6 +1,3 @@
-
-# WorkoutRoute
-
 > class watchlib.utils.WorkoutRoute
 
 This is the data type for all workout routes. You can use it to access all properties of a route.

@@ -1,5 +1,3 @@
-# Filtering
-
 watchlib comes with various filters and a `FilterPipeline` to make filter operations reusable.
 
 ## Filters 
