@@ -1,1 +1,2 @@
-Welcome to the watchlib wiki!
+# Documentation for *watchlib*
+
