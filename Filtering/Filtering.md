@@ -3,12 +3,12 @@
 watchlib comes with various filters and a `FilterPipeline` to make filter operations reusable.
 
 ## Filters 
-Filters for [WorkoutRoutes](https://github.com/marcjulianschwarz/watchlib/wiki/WorkoutRoute):
+Filters for [[WorkoutRoute|WorkoutRoutes]]:
 
-- [BBoxFilter](https://github.com/marcjulianschwarz/watchlib/wiki/BBoxFilter)
-- [CountryFilter](https://github.com/marcjulianschwarz/watchlib/wiki/CountryFilter) 
-- [TimeFilter](https://github.com/marcjulianschwarz/watchlib/wiki/TimeFilter) 
+- [[BBoxFilter]]
+- [[CountryFilter]]
+- [[TimeFilter]]
 
 ## FilterPipeline 
 
-You can use the [FilterPipeline](https://github.com/marcjulianschwarz/watchlib/wiki/FilterPipeline) to create a sequence of filters that data has to flow through. 
+You can use the [[FilterPipeline]] to create a sequence of filters that data has to flow through. 

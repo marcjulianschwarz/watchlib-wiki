@@ -1,1 +1,4 @@
 # Data Types
+
+- [[WorkoutRoute]]
+- [[ECG]]
