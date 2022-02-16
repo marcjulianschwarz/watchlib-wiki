@@ -8,7 +8,7 @@ from watchlib.data_handler import DataLoader
 dl = DataLoader("path/to/apple_health_export")
 ```
 
-## Parameters:
+## Parameters
 - **path** : str
 ## Methods
 ### Loading routes
