@@ -1,2 +1,2 @@
-[[Animation Configuration]]
-[[WorkoutAnimation]]
+- [[Animation Configuration]]
+- [[WorkoutAnimation]]
