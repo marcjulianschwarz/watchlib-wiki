@@ -1,12 +1,14 @@
 > class watchlib.data_handler.DataLoader(path)
 
-The easiest way to load Apple Watch data into a usable format in watchlib is to use the `DataLoader`.
+The easiest way to load Apple Watch data into a usable format in watchlib is to use the `DataLoader`. 
 
 ```python
 from watchlib.data_handler import DataLoader
 
 dl = DataLoader("path/to/apple_health_export")
 ```
+
+Use the guide "[[How to export Apple Watch health data]]" to determine the correct path. 
 
 ## Parameters
 - **path** : str
