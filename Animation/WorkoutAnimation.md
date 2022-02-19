@@ -1,6 +1,6 @@
 > class watchlib.animation.WorkoutAnimation(data, config)
 
-You can use `WorkoutAnimation` to create 3D animated plots of your [[WorkoutRoute|WorkoutRoutes]]. See [[WorkoutAnimationConfig]] for more details on customizing the animation.
+You can use `WorkoutAnimation` to create 3D animated plots of your [[WorkoutRoute]]. See [[WorkoutAnimationConfig]] for more details on customizing the animation.
 
 ## Parameters
 - **data** : [[WorkoutRoute]]
@@ -9,9 +9,6 @@ You can use `WorkoutAnimation` to create 3D animated plots of your [[WorkoutRout
 ## Methods
 ### Animating a route
 You can animate a [[WorkoutRoute]] using the `animate()` method. 
-
-**Parameters**:
-- There are no parameters 
 
 **Returns**:
 - `matplotlib.animation.FuncAnimation`
@@ -30,13 +27,12 @@ animation = wa.animate()
 animation.save("route_animation.mp4")
 ```
 
+---
+
 ### Setting config
 You can set a new configuration using the `set_config()` method.
 **Parameters**:
 - `config` : [[WorkoutAnimationConfig]]
-
-**Returns**:
-- `None`
 
 **Usage**:
 

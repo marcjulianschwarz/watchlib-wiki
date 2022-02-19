@@ -18,7 +18,7 @@ You can load routes using the `load_routes()` method. The returned routes have b
 It defaults to loading routes in parallel. To instead load routes in sequence you can set the `parallel` parameter to `False`. For a small count of routes it might be faster to load them sequentially.
 
 **Parameters**:
-- `parallel=True` : bool
+- `parallel=True` : `bool`
 
 **Returns**: 
 - `List[WorkoutRoute]` → [[WorkoutRoute]]

@@ -1,2 +1,1 @@
-
-# Animation Configuration
+- [[WorkoutAnimationConfig]]
