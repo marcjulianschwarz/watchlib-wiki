@@ -1,9 +1,10 @@
 watchlib comes with various filters and a `FilterPipeline` to make filter operations reusable.
 
 ## Filters 
-Filters for [[WorkoutRoute|WorkoutRoutes]]:
+Filters for [[WorkoutRoute]]:
 
 - [[BBoxFilter]]
+- [[DiagonalBBoxFilter]]
 - [[CountryFilter]]
 - [[TimeFilter]]
 
